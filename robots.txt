@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hcoau.csgad.com/XJT/sitemap.xml.gz
